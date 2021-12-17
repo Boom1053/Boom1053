@@ -6,7 +6,7 @@ My main project right now is GTA 5 RP, Since covid hit i have had alot more time
 
 - 📫 How to reach me ...
 
-Contact me on DISCORD: https://discord.gg/ppzfTAV55S / Boomie#1053
+Contact me on DISCORD: https://discord.gg/S9tRGm8NSD / Boomie#1053
 
 
 ALL MY WORK IS NOT TO BE USED FOR RESALE AND I MUST BE ASKED BEFORE ANY OF MY WORK CAN BE PUBLISHED, ALL MY WORK IS PROTECTED WITH A LISENCE AGREEMENT AND COPYRIGHT STANDARDS.
