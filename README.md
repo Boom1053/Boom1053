@@ -3,7 +3,7 @@
 - 👀 I’m interested in Development and Graphics Design.
 - 🌱 I’m currently learning LUA.
 
-My main project right now is GTA 5 RP, Since covid hit i have had alot more time on my hands to i thought why not create a Roleplay Serer where its pretty much free roam and is strict on RP
+My main project right now is GTA 5 RP, Since covid hit i have had alot more time on my hands so i thought why not create a Roleplay Serer where its pretty much free roam and is strict on RP
 
 - 📫 How to reach me ...
 
