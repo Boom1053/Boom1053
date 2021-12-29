@@ -1,3 +1,4 @@
+## Bout this ugly mf!
 - 👋 Hi, I’m Boom.
 - 👀 I’m interested in Development and Graphics Design.
 - 🌱 I’m currently learning LUA.
