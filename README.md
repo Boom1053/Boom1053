@@ -3,12 +3,11 @@
 - 👀 I’m interested in Development and Graphics Design.
 - 🌱 I’m currently learning LUA.
 
-My main project right now is GTA 5 RP, Since covid hit i have had alot more time on my hands so i thought why not create a Roleplay Serer where its pretty much free roam and is strict on RP
+My main project right now is fivem, Since covid hit i've had alot more time on my hands so i thought why not create a roleplay server? Where its pretty much free roam and strict roleplay.
 
 - 📫 How to reach me ...
 
 Contact me on DISCORD: https://discord.gg/S9tRGm8NSD / Boomie#1053
-
 
 ALL MY WORK IS NOT TO BE USED FOR RESALE AND I MUST BE ASKED BEFORE ANY OF MY WORK CAN BE PUBLISHED, ALL MY WORK IS PROTECTED WITH A LISENCE AGREEMENT AND COPYRIGHT STANDARDS.
 YOU CAN CONTACT ME FURTHER FOR ANY BUGGS OR ERRORS WITHIN MY SCRIPTS AND I WILL BE HAPPY TO ASSIST.
