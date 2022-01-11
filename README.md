@@ -16,8 +16,12 @@ YOU CAN CONTACT ME FURTHER FOR ANY BUGGS OR ERRORS WITHIN MY SCRIPTS AND I WILL 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Boom1053&count_private=true&include_all_commits=true&show_icons=true&theme=omni&custom_title=Boomie's Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boom1053">
-    <img src="https://komarev.com/ghpvc/?username=Boom1053V&style=flat-square"/>
+    <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boom1053">
+     <p align="center">
+     <img src="https://komarev.com/ghpvc/?username=Boom1053V&style=flat-square"/>
+        </p>
+    </p>
 </p>
 
 <!---
