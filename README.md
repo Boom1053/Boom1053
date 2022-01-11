@@ -1,5 +1,7 @@
 <h1 align="center">Bout this ugly mf!</h1>
-<p align="center"><strong>- 👋 Hi, I’m Boom.
+<p align="center">
+<strong>
+- 👋 Hi, I’m Boom.
 - 👀 I’m interested in Development and Graphics Design.
 - 🌱 I’m currently learning LUA.
 
