@@ -13,10 +13,15 @@ ALL MY WORK IS NOT TO BE USED FOR RESALE AND I MUST BE ASKED BEFORE ANY OF MY WO
 YOU CAN CONTACT ME FURTHER FOR ANY BUGGS OR ERRORS WITHIN MY SCRIPTS AND I WILL BE HAPPY TO ASSIST.</p>
 
 <h1 align="center">Github Stats</h1>
+
 <p align="center">
+
 ![stats](https://github-readme-stats.vercel.app/api?username=boom1053&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=true&hide_rank=false)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boom1053">
+
 <img src="https://komarev.com/ghpvc/?username=Boom1053V&style=flat-square"/>
+
 </p>
 
 <!---
