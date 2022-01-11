@@ -1,9 +1,9 @@
 <h1 align="center">Bout this ugly mf!</h1>
 <p align="center">
 <strong>
-- 👋 Hi, I’m Boom.
-- 👀 I’m interested in Development and Graphics Design.
-- 🌱 I’m currently learning LUA.
+👋 Hi, I’m Boom.
+ 👀 I’m interested in Development and Graphics Design.
+ 🌱 I’m currently learning LUA.
 
 My main project right now is fivem, Since covid hit i've had alot more time on my hands so i thought why not create a roleplay server? Where its pretty much free roam and strict roleplay.
 
