@@ -10,6 +10,9 @@ My main project right now is fivem, Since covid hit i've had alot more time on m
 - 📫 How to reach me ...
 
 Contact me on DISCORD: https://discord.gg/S9tRGm8NSD / Boomie#1053
+ 
+ - ☕ Buy me a coffee?
+ https://ko-fi.com/boomiiee
 
 ALL MY WORK IS NOT TO BE USED FOR RESALE AND I MUST BE ASKED BEFORE ANY OF MY WORK CAN BE PUBLISHED, ALL MY WORK IS PROTECTED WITH A LISENCE AGREEMENT AND COPYRIGHT STANDARDS.
 YOU CAN CONTACT ME FURTHER FOR ANY BUGGS OR ERRORS WITHIN MY SCRIPTS AND I WILL BE HAPPY TO ASSIST.</p>
