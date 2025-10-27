@@ -85,8 +85,6 @@ const boom = {
   [![Discord](https://img.shields.io/badge/Discord-boom1053-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
   [![Discord Server](https://img.shields.io/badge/Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WXytk8tFQe)
   
-  **Join my Discord Server: [https://discord.gg/WXytk8tFQe](https://discord.gg/WXytk8tFQe)**
-  
 </div>
 
 ---
